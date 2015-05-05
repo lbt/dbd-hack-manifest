@@ -2,4 +2,5 @@
 <manifest>
   <remote  name="hybris" fetch="https://github.com" />
   <project path="bionic" name="mer-hybris/android_bionic" remote="hybris" revision="hybris-aosp-4.4.2_r2"/>
+  <project path="rpm" name="lbt/dbd-hack" remote="hybris" revision="master"/>
 </manifest>
