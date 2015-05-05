@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote  name="hybris" fetch="https://github.com" />
-  <project path="bionic" name="mer-hybris/android_bionic" remote="hybris" revision="hybris-ia-4.4.2_r1-ia2"/>
+  <project path="bionic" name="mer-hybris/android_bionic" remote="hybris" revision="hybris-aosp-4.4.2_r2"/>
 </manifest>
